@@ -1,7 +1,7 @@
 locals {
-    test = "this is the output"
+  test = "this is the output"
 }
 
-output test{
-    value = local.test
+output test {
+  value = local.test
 }
