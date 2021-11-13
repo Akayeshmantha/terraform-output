@@ -1,1 +1,1 @@
-# terraform-output
+# terraform-outputs
